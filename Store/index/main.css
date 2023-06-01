@@ -1,0 +1,24 @@
+body {
+    background-color: #152733;
+}
+
+header {
+    background-color: #152733;
+    padding: 25px;
+    display: flex;
+    justify-content: space-around;
+    border-bottom: white solid;
+}
+
+.nav-link:hover {
+    transition: 0.9s;
+    transform: translate(10px) ;
+    color: white;
+}
+
+.nav-link {
+ font-size: 19px;
+ color: white;
+ text-decoration: none;
+}
+
